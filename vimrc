@@ -15,7 +15,7 @@ Plugin 'tpope/vim-fugitive'
 Plugin 'mileszs/ack.vim'
 Plugin 'ctrlpvim/ctrlp.vim'
 Plugin 'dart-lang/dart-vim-plugin'
-Plugin 'klen/python-mode'
+" Plugin 'klen/python-mode'
 Plugin 'bling/vim-airline'
 Plugin 'tpope/vim-surround'
 Plugin 'godlygeek/csapprox'
@@ -27,6 +27,10 @@ Plugin 'SirVer/ultisnips'
 Plugin 'honza/vim-snippets'
 Bundle 'chrisgillis/vim-bootstrap3-snippets'
 Plugin 'tomtom/tcomment_vim'
+Plugin 'aquach/vim-http-client'
+
+" clojure stuff
+" Plugin 'paredit.vim'
 " plugin from http://vim-scripts.org/vim/scripts.html
 "Plugin 'L9'
 " Git plugin not hosted on GitHub

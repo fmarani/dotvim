@@ -112,3 +112,7 @@ let g:airline_symbols.whitespace = 'Ξ'
 "let g:airline#extensions#branch#enabled = 1
 "let g:airline#extensions#syntastic#enabled = 1
 let g:airline_powerline_fonts = 1
+
+" filetypes
+au BufNewFile,BufRead *.html set filetype=htmldjango
+au BufNewFile,BufRead *.py set filetype=python.django

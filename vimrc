@@ -90,7 +90,7 @@ let g:ctrlp_custom_ignore = {
   \ }
 
 " airline
-let g:airline_theme = 'powerlineish'
+" let g:airline_theme = 'powerlineish'
 if !exists('g:airline_symbols')
   let g:airline_symbols = {}
 endif

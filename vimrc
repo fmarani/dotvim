@@ -26,6 +26,7 @@ Plugin 'SirVer/ultisnips'
 Plugin 'honza/vim-snippets'
 Plugin 'jvanja/vim-bootstrap4-snippets'
 Plugin 'tomtom/tcomment_vim'
+Plugin 'leafgarland/typescript-vim'
 " Plugin 'aquach/vim-http-client'
 
 " clojure stuff
@@ -63,7 +64,7 @@ set foldlevel=99
 set t_Co=256
 set encoding=utf-8
 
-colorscheme fruity
+colorscheme greenwint
 
 let g:snips_author = "Federico Marani"
 
